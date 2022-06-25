@@ -1,3 +1,3 @@
-# To Begin
+# To Start
 
 yarn && yarn start
